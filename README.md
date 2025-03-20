@@ -1,1 +1,23 @@
-# Como-aprender-a-programar-de-una-manera-m-s-sencilla-
+# Como-aprender-a-programar-de-una-manera-más-sencilla
+- El proceso
+- Mentalidad y actitud es la clave.
+- No hay atajos magicos.
+- Aprender a programar es como aprender  a tocar un nuevo instrumento o un nuevo idioma.
+- donde debes de tener en cuenta los siguientes reqisitos ( tiempo, paciencia y constacia)
+-  No todo son cursos
+-  Construye una base
+-  Practica mucho
+-  Curiosidad
+-  Busca soluciones por ti mismo
+-  Centra tu proceso de aprendizaje
+-  Definir un aruta de estudio es muy importante
+-  Metodologia
+-  Fundamentos
+-  Mecánicas
+-  especialización
+-  Practicar mucho
+-  Los odjetivos deben de ser claros
+- Tienes que buscar motivación, compromiso
+- Pensamiento logico
+- Recuerda tienes que estudiar y deberas tener que practicar
+- Aportar el verdadero valor.    
