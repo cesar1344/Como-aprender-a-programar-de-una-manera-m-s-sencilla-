@@ -1,4 +1,4 @@
-# Como-aprender-a-programar-de-una-manera-más-sencilla
+# Como aprender a programar  de manera más sencilla 
 - El proceso
 - Mentalidad y actitud es la clave.
 - No hay atajos magicos.
